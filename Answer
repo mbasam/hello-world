@@ -1,3 +1,5 @@
 In what ways does GitHub help scientists follow the best practices for scientific computing?
 
-GitHub allows scientists to annotate their work by either including explanations in their code or creating a README file. A README file can 
+GitHub allows scientists to annotate their work by either including explanations in their code or creating a README file. A README file provides an others a quick tutorial on what the following code is doing, explains the dataset, assumptions, important variables, and the thought process behind the coding, which can be difficult to follow. 
+GitHub improves their ability to collaborate with one another by sharing ideas, instructions, and solutions so that others don't fall into the same pitfalls and time-consuming steps. Open-sourced collaboration leads to a wider application of knowledge to different fields that can impact the world of science. 
+Branches allow for parallel workspaces that eliminate the fear of tinkering with code by reducing the risk of ruining a master template document. Trying different solutions can lead to marvelous or disasterous results and the only way of knowing the outcome is to try it. 
